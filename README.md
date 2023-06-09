@@ -30,4 +30,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChaeYami&layout=compact&theme=material-palenight)
 
   
-![snake gif](https://github.com/ChaeYami/ChaeYami/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/ChaeYami/ChaeYami/blob/output/github-contribution-grid-snake.svg)
