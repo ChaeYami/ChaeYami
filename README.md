@@ -4,7 +4,7 @@
   
 <h4>💖 BLOG</h4>
 
-<a href="https://chaeyami.tistory.com/"></a>
+<a href="https://chaeyami.tistory.com/">BLOG</a>
 
  
 <h4>📚 STACKS</h4>
