@@ -1,5 +1,4 @@
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:41d1fe,100:fe84fe&height=250&section=header&text=SEO%20CHAEYEON&fontColor=ffffffCC&fontSize=60&fontAlignY=35&desc=ChaeYami&descSize=20&descAlign=70&descAlignY=53" /></div>
-
 <div align="center"><img src="https://github.com/ChaeYami/ChaeYami/assets/120750451/7c8742a2-96f5-4f80-948f-fc5fc8afdcd2" width="160"/></div>
 
 <br>  
