@@ -1,14 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:41d1fe,100:fe84fe&height=300&section=header&text=SEO%20CHAEYEON&fontColor=ffffffCC&fontSize=65&fontAlignY=35&desc=ChaeYami&descSize=25&descAlign=70&descAlignY=53" />
 
-# &nbsp;<img src="https://github.com/ChaeYami/ChaeYami/assets/120750451/7c8742a2-96f5-4f80-948f-fc5fc8afdcd2" width="55"/> &nbsp;ChaeYami
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChaeYami&show_icons=true&theme=material-palenight)&nbsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChaeYami&layout=compact&theme=material-palenight)
-<br>  
-<br>
-
----
-<br>
+<img src="https://github.com/ChaeYami/ChaeYami/assets/120750451/7c8742a2-96f5-4f80-948f-fc5fc8afdcd2" width="68"/>
 
 ## 📬 CONTACT
 
@@ -37,7 +29,10 @@
 <br>
 
 ---
-<br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChaeYami&show_icons=true&theme=material-palenight)&nbsp;
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChaeYami&layout=compact&theme=material-palenight)
+<br>  
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=codusseo)](https://solved.ac/codusseo)
 <br>  
