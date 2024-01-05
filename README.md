@@ -8,8 +8,9 @@
 ---
 
 ## 📬 CONTACT
+
 <a href="https://chaeyami.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-FF4785?style=for-the-badge&logo=tistory&logoColor=000000"></a>
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ssallyseo@gmail.com)](mailto:ssallyseo@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ssallyseo@gmail.com)](mailto:ssallyseo@gmail.com)
 
 ## 🛠️ SKILLS
 ### Languages & Frameworks
