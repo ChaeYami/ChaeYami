@@ -4,8 +4,11 @@
 <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChaeYami&show_icons=true&theme=material-palenight)&nbsp;
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChaeYami&layout=compact&theme=material-palenight)
+<br>  
+<br>
 
 ---
+<br>
 
 ## 📬 CONTACT
 
@@ -30,7 +33,10 @@
 <br>
 <img src ="https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white">
 <img src ="https://img.shields.io/badge/obsidian-7C3AED.svg?&style=for-the-badge&logo=obsidian&logoColor=white">
+<br>  
+<br>
 
 ---
+<br>
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=codusseo)](https://solved.ac/codusseo)
