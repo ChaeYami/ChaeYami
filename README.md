@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:41d1fe,100:fe84fe&height=300&section=header&text=SEO%20CHAEYEON&fontColor=ffffffBF&fontSize=65&fontAlignY=35&desc=ChaeYami&descSize=25&descAlignY=53" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:41d1fe,100:fe84fe&height=300&section=header&text=SEO%20CHAEYEON&fontColor=ffffffBF&fontSize=65&fontAlignY=35&desc=ChaeYami&descSize=25&descAlign=70&descAlignY=53" />
 
 # &nbsp;<img src="https://github.com/ChaeYami/ChaeYami/assets/120750451/7c8742a2-96f5-4f80-948f-fc5fc8afdcd2" width="55"/> &nbsp;ChaeYami
 
