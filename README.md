@@ -47,6 +47,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChaeYami&count_bg=%23FF9EDE&title_bg=%23E1A3FF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 <br>
 
+---
 
 ## ✅ Latest Blog Post
 [2024/01/29 - [백준] 2580번 : 스도쿠 (백트래킹 골드Ⅳ) - Python](https://chaeyami.tistory.com/224) <br/>
