@@ -48,7 +48,7 @@
 <br>
 
 
-
+## ✅ Latest Blog Post
 [2024/01/29 - [백준] 2580번 : 스도쿠 (백트래킹 골드Ⅳ) - Python](https://chaeyami.tistory.com/224) <br/>
 [2024/01/24 - [백준] 9663번 : N-Queen (백트래킹 골드Ⅳ) - Python](https://chaeyami.tistory.com/221) <br/>
 [2024/01/19 - [네트워크] NAT 와 PAT](https://chaeyami.tistory.com/220) <br/>
