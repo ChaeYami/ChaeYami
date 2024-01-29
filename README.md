@@ -55,4 +55,3 @@
 #### <a href='https://chaeyami.tistory.com/220' target='_blank'>💜 2024/01/19 - [네트워크] NAT 와 PAT</a> <br/>
 #### <a href='https://chaeyami.tistory.com/216' target='_blank'>💜 2024/01/15 - [IntelliJ] IntelliJ 단축키 모음(Window & Mac)</a> <br/>
 #### <a href='https://chaeyami.tistory.com/214' target='_blank'>💜 2024/01/15 - [티스토리] 스킨 커스텀 - 로그인, 로그아웃 버튼 추가하기</a> <br/>
-#### <a href='https://chaeyami.tistory.com/213' target='_blank'>💜 2024/01/15 - [티스토리] 스킨 커스텀 - 글쓰기, 관리 버튼 추가하기</a> <br/>
