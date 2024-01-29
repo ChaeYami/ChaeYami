@@ -53,6 +53,7 @@ markdown_text = """
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChaeYami&count_bg=%23FF9EDE&title_bg=%23E1A3FF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 <br>
 
+---
 
 ## ✅ Latest Blog Post
 """ # list of blog posts will be appended here
