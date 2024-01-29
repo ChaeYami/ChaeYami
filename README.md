@@ -35,8 +35,9 @@
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChaeYami&layout=compact&theme=material-palenight)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChaeYami&show_icons=true&theme=material-palenight)&nbsp;
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChaeYami&layout=compact&theme=material-palenight)
+
 <br>  
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=codusseo)](https://solved.ac/codusseo)
