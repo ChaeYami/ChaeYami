@@ -36,5 +36,5 @@ jobs:
         git diff
         git config --local user.email "ssallyseo@gmail.com"
         git config --local user.name "ChaeYami"
-        git commit -m ":purple_heart: Updating Blog Posts"
+        git commit -m ":purple_heart: Update Blog Posts"
         git push
