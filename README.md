@@ -54,3 +54,4 @@
 #### <a href='https://chaeyami.tistory.com/232' target='_blank'>💜 2024/02/01 - [티스토리] hELLO 스킨 커스텀 - 글 상단바에 카테고리 나타내기</a> <br/>
 #### <a href='https://chaeyami.tistory.com/230' target='_blank'>💜 2024/01/31 - [백준] 14889번 : 스타트와 링크 (백트래킹 실버Ⅰ) - Python</a> <br/>
 #### <a href='https://chaeyami.tistory.com/228' target='_blank'>💜 2024/01/30 - [네트워크] DHCP</a> <br/>
+#### <a href='https://chaeyami.tistory.com/227' target='_blank'>💜 2024/01/30 - [네트워크] GSLB(Global Server Load Balancing)</a> <br/>
