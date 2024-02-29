@@ -49,9 +49,9 @@
 ---
 
 # 📝 Latest Blog Post
+#### <a href='https://chaeyami.tistory.com/242' target='_blank'>💜 2024/02/28 - [SQLD] 1장 : 데이터 모델링의 이해 - 5. 식별자</a> <br/>
+#### <a href='https://chaeyami.tistory.com/241' target='_blank'>💜 2024/02/28 - [SQLD] 1장 : 데이터 모델링의 이해 - 4. 관계</a> <br/>
+#### <a href='https://chaeyami.tistory.com/240' target='_blank'>💜 2024/02/28 - [SQLD] 1장 : 데이터 모델링의 이해 - 3. 속성</a> <br/>
+#### <a href='https://chaeyami.tistory.com/239' target='_blank'>💜 2024/02/28 - [SQLD] 1장 : 데이터 모델링의 이해 - 2 엔터티</a> <br/>
+#### <a href='https://chaeyami.tistory.com/238' target='_blank'>💜 2024/02/28 - [SQLD] 1장 : 데이터 모델링의 이해 - 1. 데이터 모델의 이해</a> <br/>
 #### <a href='https://chaeyami.tistory.com/234' target='_blank'>💜 2024/02/03 - [백준] 2346번 : 풍선 터뜨리기 (스택/큐(덱) 실버Ⅲ) - Python</a> <br/>
-#### <a href='https://chaeyami.tistory.com/233' target='_blank'>💜 2024/02/03 - [백준] 2108번 : 통계학 (실버Ⅲ) - Python</a> <br/>
-#### <a href='https://chaeyami.tistory.com/232' target='_blank'>💜 2024/02/01 - [티스토리] hELLO 스킨 커스텀 - 글 상단바에 카테고리 나타내기</a> <br/>
-#### <a href='https://chaeyami.tistory.com/230' target='_blank'>💜 2024/01/31 - [백준] 14889번 : 스타트와 링크 (백트래킹 실버Ⅰ) - Python</a> <br/>
-#### <a href='https://chaeyami.tistory.com/228' target='_blank'>💜 2024/01/30 - [네트워크] DHCP</a> <br/>
-#### <a href='https://chaeyami.tistory.com/227' target='_blank'>💜 2024/01/30 - [네트워크] GSLB(Global Server Load Balancing)</a> <br/>
