@@ -49,3 +49,9 @@
 ---
 
 # 📝 Latest Blog Post
+#### <a href='https://chaeyami.tistory.com/242' target='_blank'>💜 2024/02/28 - [SQLD] 1장 : 데이터 모델링의 이해 - 5. 식별자</a> <br/>
+#### <a href='https://chaeyami.tistory.com/241' target='_blank'>💜 2024/02/28 - [SQLD] 1장 : 데이터 모델링의 이해 - 4. 관계</a> <br/>
+#### <a href='https://chaeyami.tistory.com/240' target='_blank'>💜 2024/02/28 - [SQLD] 1장 : 데이터 모델링의 이해 - 3. 속성</a> <br/>
+#### <a href='https://chaeyami.tistory.com/239' target='_blank'>💜 2024/02/28 - [SQLD] 1장 : 데이터 모델링의 이해 - 2 엔터티</a> <br/>
+#### <a href='https://chaeyami.tistory.com/238' target='_blank'>💜 2024/02/28 - [SQLD] 1장 : 데이터 모델링의 이해 - 1. 데이터 모델의 이해</a> <br/>
+#### <a href='https://chaeyami.tistory.com/234' target='_blank'>💜 2024/02/03 - [백준] 2346번 : 풍선 터뜨리기 (스택/큐(덱) 실버Ⅲ) - Python</a> <br/>
