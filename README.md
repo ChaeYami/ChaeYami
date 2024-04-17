@@ -50,8 +50,8 @@
 
 # 📝 Latest Blog Post
 #### <a href='https://chaeyami.tistory.com/245' target='_blank'>💜 2024/04/15 - [SpringBoot/JPA] Spring Data JPA 페이징 구현하기</a> <br/>
+#### <a href='https://chaeyami.tistory.com/243' target='_blank'>💜 2024/04/15 - [SpringBoot/JPA] 이미지 업로드 구현하기</a> <br/>
 #### <a href='https://chaeyami.tistory.com/242' target='_blank'>💜 2024/02/28 - [SQLD] 1장 : 데이터 모델링의 이해 - 5. 식별자</a> <br/>
 #### <a href='https://chaeyami.tistory.com/241' target='_blank'>💜 2024/02/28 - [SQLD] 1장 : 데이터 모델링의 이해 - 4. 관계</a> <br/>
 #### <a href='https://chaeyami.tistory.com/240' target='_blank'>💜 2024/02/28 - [SQLD] 1장 : 데이터 모델링의 이해 - 3. 속성</a> <br/>
 #### <a href='https://chaeyami.tistory.com/239' target='_blank'>💜 2024/02/28 - [SQLD] 1장 : 데이터 모델링의 이해 - 2 엔터티</a> <br/>
-#### <a href='https://chaeyami.tistory.com/238' target='_blank'>💜 2024/02/28 - [SQLD] 1장 : 데이터 모델링의 이해 - 1. 데이터 모델의 이해</a> <br/>
