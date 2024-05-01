@@ -49,9 +49,9 @@
 ---
 
 # 📝 Latest Blog Post
-#### <a href='https://chaeyami.tistory.com/258' target='_blank'>💜 2024/04/26 - [SpringBoot/JPA] QueryDSL로 검색, 필터 기능 구현하기</a> <br/>
-#### <a href='https://chaeyami.tistory.com/257' target='_blank'>💜 2024/04/19 - [Spring/JPA] Spring Data JPA (JPA와의 차이점)</a> <br/>
-#### <a href='https://chaeyami.tistory.com/256' target='_blank'>💜 2024/04/19 - [JPA] JPA와 하이버네이트(Hibernate)</a> <br/>
-#### <a href='https://chaeyami.tistory.com/255' target='_blank'>💜 2024/04/19 - [Java] JDBC(Java Database Connectivity)</a> <br/>
-#### <a href='https://chaeyami.tistory.com/253' target='_blank'>💜 2024/04/18 - [SpringBoot/JPA] 주문, 결제 - 포트원(아임포트)로 결제기능 구현하기 (+React)</a> <br/>
-#### <a href='https://chaeyami.tistory.com/252' target='_blank'>💜 2024/04/18 - [SpringBoot/JPA] 장바구니 기능 구현하기</a> <br/>
+#### <a href='http://chaeyami.tistory.com/263' target='_blank'>💜 2024/04/30 - [OOP] ORM(Object-Relational Mapping)</a> <br/>
+#### <a href='http://chaeyami.tistory.com/262' target='_blank'>💜 2024/04/30 - [JPA]QueryDSL</a> <br/>
+#### <a href='http://chaeyami.tistory.com/258' target='_blank'>💜 2024/04/26 - [SpringBoot/JPA] QueryDSL로 검색, 필터 기능 구현하기</a> <br/>
+#### <a href='http://chaeyami.tistory.com/257' target='_blank'>💜 2024/04/19 - [Spring/JPA] Spring Data JPA (JPA와의 차이점)</a> <br/>
+#### <a href='http://chaeyami.tistory.com/256' target='_blank'>💜 2024/04/19 - [JPA] JPA와 하이버네이트(Hibernate)</a> <br/>
+#### <a href='http://chaeyami.tistory.com/255' target='_blank'>💜 2024/04/19 - [Java] JDBC(Java Database Connectivity)</a> <br/>
